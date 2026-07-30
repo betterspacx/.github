@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/betterspacx/.github/refs/heads/main/desi.jpg">
-  <img alt="BetterFlow" src="https://raw.githubusercontent.com/betterspacx/.github/refs/heads/main/desi.jpg">
-</picture>
+
 
 # BetterFlow
 
